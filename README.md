@@ -7,7 +7,7 @@ In order to submit your assignments -
 
 1. Create your project/repo by forking the base repo from this URL - https://github.com/ZigmaIT/full-stack-assignment and start the work. 
 2. Create a README.md file in the repository that contains the following information - 
-  - The Netlify deployment link to the application.
-  - A link to your LinkedIn/Internshala profile or to a PDF file containing your CV.
-  - Description of your assignment.
+  1. The Netlify deployment link to the application.
+  2. A link to your LinkedIn/Internshala profile or to a PDF file containing your CV.
+  3. Description of your assignment.
 
